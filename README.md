@@ -1,27 +1,30 @@
-# TÍTULO DO PROJETO
+# CONTROLE FINANCEIRO - ZCaixa
+`CURSO - ANALISE E DESENVOLVIMENTO DE SISTEMAS`
 
-`CURSO`
+`Projeto: Desenvolvimento de uma Aplicação Interativa`
 
-`DISCIPLINA`
-
-`SEMESTRE`
-
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+`3º - Eixo`
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Gabriel de Souza Ferreira 
+* Leandro Furtado de Sousa
+* Nicolas Patrick Teixeira da Silva
+* Pedro de Souza Ferreira 
+* Ricardo José Teixeira da Silva Junior
+* Tiago Del Puppo Favilla Lobo
 
 ## Orientador
 
-* Nome completo do professor 1
+* Mateus Curcino de Lima
 
 ## Instruções de utilização
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+Link da aplicação
+
+Usuário de teste: Henrique
+
+Senha do usuário: PUC@2022
 
 # Documentação
 
@@ -43,8 +46,12 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 
 # Código
 
-<li><a href="src/README.md"> Código Fonte</a></li>
+<li><a href="source"> Código Fonte</a></li>
 
 # Apresentação
 
-<li><a href="presentation/README.md"> Apresentação da solução</a></li>
+## Slides:
+
+
+## Vídeo:
+
