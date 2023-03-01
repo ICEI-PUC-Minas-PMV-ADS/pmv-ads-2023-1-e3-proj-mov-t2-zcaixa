@@ -1,4 +1,4 @@
-# CONTROLE FINANCEIRO - ZCaixa
+# ZCaixa - Mobile
 `CURSO - ANALISE E DESENVOLVIMENTO DE SISTEMAS`
 
 `Projeto: Desenvolvimento de uma Aplicação Interativa`
