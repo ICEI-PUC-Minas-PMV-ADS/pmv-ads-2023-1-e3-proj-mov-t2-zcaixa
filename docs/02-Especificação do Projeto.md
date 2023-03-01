@@ -39,30 +39,35 @@ O escopo funcional do projeto é definido por meio dos requisitos funcionais que
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| O sistema permite agrupar valores por seções (categorias)  | ALTA | 
-|RF-002| O sistema permite o lançamento de débitos  | ALTA |
-|RF-003| O sistema permite o lançamento de crédito | ALTA |
-|RF-004| O sistema permite datar lançamentos (exemplo: pagamentos ou recebimentos futuros)  | ALTA |
-|RF-005| O sistema permite a visualização de entradas e saídas por mês | ALTA |
-|RF-006| O sistema permite a definição de meta  | ALTA |
-|RF-007| O sistema terá tela de Login e Senha  | ALTA | 
+|RF-001| A aplicação permite agrupar valores por seções (categorias)  | ALTA | 
+|RF-002| A aplicação permite o lançamento de débitos  | ALTA |
+|RF-003| A aplicação permite o lançamento de crédito | ALTA |
+|RF-004| A aplicação permite datar lançamentos (exemplo: pagamentos ou recebimentos futuros)  | ALTA |
+|RF-005| A aplicação permite a visualização de entradas e saídas por mês | MÉDIA |
+|RF-006| A aplicação permite a definição de meta  | BAIXA |
+|RF-007| A aplicação terá tela de Login e Senha  | ALTA |
+|RF-008| A aplicação permite a definição de meta  | BAIXA |
+|RF-009| A aplicação permite a recuperação de senha do acesso  | BAIXA |
+|RF-010| A aplicação permite a edição de lançamentos já realizados  | MÉDIA |
+|RF-011| A aplicação permite o logout de usuário | MÉDIA |
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| A aplicação deve ser publicada em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku) | ALTA | 
-|RNF-002| A aplicação deve ter bom nível de contraste entre os elementos da tela em conformidade |  ALTA | 
+|RNF-002| A aplicação deve ter bom nível de contraste entre os elementos da tela em conformidade |  MÉDIA | 
 |RNF-003| A aplicação deve ser compatível principalmente com o sistema Android |  ALTA | 
-|RNF-004| A aplicação será modelada usando UML 2.3  |  ALTA |
-|RNF-005| A aplicação deve ter interface gráfica amigável  |  ALTA |
+|RNF-004| A aplicação será modelada usando UML 2.3  |  BAIXA |
+|RNF-005| A aplicação deve ter interface responsiva  |  MÉDIA |
 |RNF-006| A aplicação deve ter tela inicial |ALTA|
-|RNF-007| A aplicação deve permitir o acesso apenas de usuários cadastrados |ALTA|
+|RNF-007| A aplicação deve ter tela de recuperar a senha |BAIXA|
+|RNF-008| A aplicação deve permitir o acesso apenas de usuários cadastrados |ALTA|
 
 ### Regras de negócio
 |ID     | Descrição da regra  |Prioridade |
 |-------|-------------------------|----|
-|RN-001| O sistema deve ser utilizado principalmente por pessoas econômicamente ativas maiores de 16 anos | ALTA | 
+|RN-001| O sistema deve ser utilizado por pessoas econômicamente ativas maiores de 16 anos | ALTA | 
 
 ## Restrições
 
