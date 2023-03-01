@@ -1,9 +1,9 @@
 # ZCaixa - Mobile
 `CURSO - ANALISE E DESENVOLVIMENTO DE SISTEMAS`
 
-`Projeto: Desenvolvimento de uma Aplicação Interativa`
+`Projeto: Desenvolvimento de uma Aplicação Móvel em um Ambiente de Negócio - Turma 05'
 
-`3º - Eixo`
+`3º Eixo`
 
 ## Integrantes
 
