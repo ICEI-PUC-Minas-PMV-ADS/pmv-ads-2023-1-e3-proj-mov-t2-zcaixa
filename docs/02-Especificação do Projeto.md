@@ -92,3 +92,10 @@ Como atores é importante a identificação dos grupos de todos os envolvidos qu
 Em relação aos casos de uso, eles devem representar as interações ou transações dos atores com o sistema. Cada tipo possível é representada por uma elipse nomeada e os relacionamentos são indicados por linhas que possuem setas nos casos em que se indica a origem da interação. Os nomes dos casos de uso representam verbos no infinitivo associados aos objetos com os quais se relacionam os verbos (ex. Cadastrar usuário, Visualizar relatório). Os tipos de relacionamentos mais comuns são associações entre atores e casos de uso, generalizações entre atores e entre casos de uso, inclusões e extensões entre casos de uso.
 
 ![img](img/diagrama-casos-de-uso-at1.png)
+
+## Organograma da Equipe
+
+O organograma foi desenvolvido conforme metodologia ágil Scrum, com a organização sendo composta pelo  Business Owner, Stakeholders, Product Owner, Scrum Master e desenvolvedores.
+
+<img width="2496" alt="Organograma Z Caixa" src="https://user-images.githubusercontent.com/59934631/222932023-8a562496-b0c3-4040-b4d0-437c7b9b57e9.png">
+
