@@ -97,5 +97,5 @@ Em relação aos casos de uso, eles devem representar as interações ou transa�
 
 O organograma foi desenvolvido conforme metodologia ágil Scrum, com a organização sendo composta pelo  Business Owner, Stakeholders, Product Owner, Scrum Master e desenvolvedores.
 
-<img width="2496" alt="Organograma Z Caixa" src="https://user-images.githubusercontent.com/59934631/222932023-8a562496-b0c3-4040-b4d0-437c7b9b57e9.png">
+<img width="2496" alt="Organograma Z Caixa" src="https://user-images.githubusercontent.com/59934631/222932279-99f13206-bcb7-4e5d-ad95-6b9ad87d61db.png">
 
