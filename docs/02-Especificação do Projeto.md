@@ -80,6 +80,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |04| A equipe usará o modelo Kanban para o gerenciamento do projeto      |
 |05| O sistema permitirá o cadastro de pessoas maiores de 16 anos        |
 
+## Matriz de Ratreabilidade
 
 
 ## Diagrama de Casos de Uso
