@@ -103,6 +103,10 @@ O organograma foi desenvolvido conforme metodologia ágil Scrum, com a organiza�
 
 O cronograma do projeto foi desenvolvido no software MS Project, seguindo as diretrizes de Gerenciamento de Cronograma do PMBOK. Primeiro foi definida a Estrutura Analíta de Projeto (EAP), onde o projeto foi dividido em 5 tarefas e suas subsequentes subtarefas, em seguida foi definido o sequenciamento das atividades e suas durações, seguindo a técnica PERT/CPM. O software calculou automaticamente as folgas e caminho crítico do projeto. O cronograma completo pode ser verficado na imagem abaixo:
 
-![CRONOGRAMA Z CAIXA](https://user-images.githubusercontent.com/59934631/222933575-920dd5a4-fc16-4f0b-9bd7-d1136e2cfded.PNG)
+![CRONOGRAMA ZCAIXA](https://user-images.githubusercontent.com/59934631/222933575-920dd5a4-fc16-4f0b-9bd7-d1136e2cfded.PNG)
 
+## Orçamento do Projeto
 
+O orçamento do projeto foi definido realizando a pesquisa pelos materiais necessários para a conclusão do projeto tendo em vista o prazo de entrega, quantidade de membros da equipe e horas estipuladas conforme seção anterior.
+
+![Orçamento ZCaixa](img/orcamento-projeto.png)
