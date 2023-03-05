@@ -82,7 +82,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Matriz de Ratreabilidade
 
-![img](img/.png)
+![img](img/matriz_de_rastreabilidade.PNG)
 
 
 ## Diagrama de Casos de Uso
