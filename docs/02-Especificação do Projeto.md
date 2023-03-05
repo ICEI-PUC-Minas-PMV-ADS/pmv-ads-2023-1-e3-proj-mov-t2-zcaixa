@@ -46,10 +46,9 @@ O escopo funcional do projeto é definido por meio dos requisitos funcionais que
 |RF-005| A aplicação permite a visualização de entradas e saídas por mês | MÉDIA |
 |RF-006| A aplicação permite a definição de meta  | BAIXA |
 |RF-007| A aplicação terá tela de Login e Senha  | ALTA |
-|RF-008| A aplicação permite a definição de meta  | BAIXA |
-|RF-009| A aplicação permite a recuperação de senha do acesso  | BAIXA |
-|RF-010| A aplicação permite a edição de lançamentos já realizados  | MÉDIA |
-|RF-011| A aplicação permite o logout de usuário | MÉDIA |
+|RF-008| A aplicação permite a recuperação de senha do acesso  | BAIXA |
+|RF-009| A aplicação permite a edição de lançamentos já realizados  | MÉDIA |
+|RF-010| A aplicação permite o logout de usuário | MÉDIA |
 
 ### Requisitos não Funcionais
 
