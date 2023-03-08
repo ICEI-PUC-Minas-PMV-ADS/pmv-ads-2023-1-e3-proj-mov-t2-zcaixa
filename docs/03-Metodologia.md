@@ -69,7 +69,7 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 
 O quadro ZCaixa Project do grupo no GitHub pode ser visualizado no link [ZCaixa Project](https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/223) e é apresentado, no estado atual, na Figura abaixo:
 
-![Kanban](img/Kanban.png)
+![Kanban](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t2-zcaixa/blob/main/docs/img/Kaban.png?raw=true)
 
 
 ### Processo
