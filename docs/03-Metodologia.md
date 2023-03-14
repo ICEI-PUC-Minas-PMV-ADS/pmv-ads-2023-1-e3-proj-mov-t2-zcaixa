@@ -81,9 +81,9 @@ Ao realizar reuniões para continuidade do projeto, são definidos os cards de t
 
 As ferramentas empregadas no projeto são:
 
-- Editor de código : - .
+- Editor de código : Visual Studio Code.
 - Ferramentas de comunicação: Whatsapp, Teams.
 - Ferramentas de desenho de tela (_wireframing_): MarvelAPP, Heflo
 - Ferramentas para diagramas (conceitual e lógico): Diagrams.net, Astah, Lucid Charts, BRMW
 
-O editor de código foi escolhido pelo grupo pois é o mais prático e acessível para os integrantes. Tem um bom dicionário de erros no código e permite acompanhar alterações em tempo real através do navegador.
+O editor de código foi escolhido pelo grupo pois é o mais prático e acessível para os integrantes, além de facilitar a alternação de quem está editando o código e salvando diretamente no reposítorio através do GitHub Desktop. Tem um bom dicionário de erros no código e permite acompanhar alterações em tempo real através do navegador.
