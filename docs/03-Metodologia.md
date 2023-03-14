@@ -9,11 +9,11 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 
 `Ambiente`       `Plataforma`        `Link de Acesso`
 
-Repositório de código fonte | GitHub | https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/teams/controle-financeiro
+Repositório de código fonte | GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t2-zcaixa
 
-Documentos do projeto | GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t4-controle-financeiro/tree/main/docs
+Documentos do projeto | GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t2-zcaixa/tree/main/docs
 
-Projeto de Interface e Wireframes | MarvelApp | À definir
+Projeto de Interface e Wireframes | MarvelApp | [Marvel APP - ZCaixa Mobile](https://marvelapp.com/prototype/6a20jd5)
 
 Gerenciamento do Projeto | GitHub | https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/123
 
