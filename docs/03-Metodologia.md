@@ -53,14 +53,13 @@ A equipe está organizada da seguinte forma:
 - Pedro Ferreira
 - Ricardo Teixeira
 
-Para organização e distribuição das tarefas do projeto, a equipe está utilizando o quadro de tarefas do GitHub KANBAN estruturado com as seguintes listas: 
+Para organização e distribuição das tarefas do projeto, a equipe está utilizando o quadro de tarefas do GitHub KANBAN unindo algumas fazes da metodologia ágil Scrum e estruturado com as seguintes listas: 
 
-●	BACKLOG: 
+●	BACKLOG: Registro de requisições deinidos em conjunto com o Scrum Master e Product Owner do projeto;
 
-●	SPRINT BACKLOG: Esta lista mantém cartões de tarefas a serem realizadas (seja uma funcionalidade ou artefato) pelos integrantes do grupo. Cada cartão contém o título da tarefa, a descrição (contendo links) e o(os) responsável(eis);
+●	SPRINT BACKLOG: as tarefas do Backlog são detalhadas e então designadas para cada integrante do desenvolvimento;
 
-
-●	IN PROGRESS: Recebe os cartões de tarefas que estão sendo desenvolvidas.
+●	IN PROGRESS: Recebe os cartões de tarefas que estão sendo desenvolvidas no presente, vindas do Sprint Backlog.
 
 ●	IN REVIEW: Esta demonstra cartões que foram executados, mas que devem ser avaliados e discutido pela equipe para determinar a atualização da tarefa para DONNE. Quando alguma coisa impede a conclusão da tarefa, ela é movida para esta lista juntamente com um comentário sobre o que está travando a tarefa.
 
