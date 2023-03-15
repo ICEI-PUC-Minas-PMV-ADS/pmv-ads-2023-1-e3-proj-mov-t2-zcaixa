@@ -18,7 +18,7 @@ Definição de como o software é estruturado em termos dos componentes que faze
 
 ## Modelo Físico
 
-Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do banco de dados. Este arquivo deverá ser incluído dentro da pasta src\bd.
+Arquivo banco.sql contendo os scripts de criação das tabelas do banco de dados que consta na pasta https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t4-controle-financeiro/raw/main/src/bd/banco.sql)
 
 ## Tecnologias Utilizadas
 
