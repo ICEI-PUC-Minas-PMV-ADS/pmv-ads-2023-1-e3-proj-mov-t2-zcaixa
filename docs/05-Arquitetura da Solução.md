@@ -20,7 +20,7 @@ Definição de como o software é estruturado em termos dos componentes que faze
 
 Arquivo banco.sql contendo os scripts de criação das tabelas do banco de dados que consta na pasta src\bd
 
-![Arquivo banco.sql] (../src/bd/banco.sql)
+[Arquivo banco.sql](../src/bd/banco.sql)
 
 ## Tecnologias Utilizadas
 
