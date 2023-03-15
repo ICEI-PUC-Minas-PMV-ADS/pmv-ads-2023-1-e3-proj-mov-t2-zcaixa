@@ -12,17 +12,9 @@ Definição de como o software é estruturado em termos dos componentes que faze
 
 ![Modelo ER](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t4-controle-financeiro/raw/main/docs/img/DER.png)
 
-## Projeto da Base de Dados 
+##  Esquema Relacional - Projeto da Base de Dados 
 
 ![Projeto da base de dados](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t4-controle-financeiro/raw/main/docs/img/Projeto_LogicoBancodeDados.png)
-
-## Esquema Relacional
-
-O Esquema Relacional corresponde à representação dos dados em tabelas juntamente com as restrições de integridade e chave primária.
- 
-As referências abaixo irão auxiliá-lo na geração do artefato “Esquema Relacional”.
-
-> - [Criando um modelo relacional - Documentação da IBM](https://www.ibm.com/docs/pt-br/cognos-analytics/10.2.2?topic=designer-creating-relational-model)
 
 ## Modelo Físico
 
