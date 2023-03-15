@@ -6,19 +6,20 @@ Definição de como o software é estruturado em termos dos componentes que faze
 
 ## Diagrama de Classes
 
-![Diagrama de Classes](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t4-controle-financeiro/raw/main/docs/img/DiagramaClasse2.png)
+![Diagrama de Classes](img/DiagramaClasse2.png)
 
 ## Modelo ER (Projeto Conceitual)
 
-![Modelo ER](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t4-controle-financeiro/raw/main/docs/img/DER.png)
+![Modelo ER](img/DER.png)
 
 ##  Esquema Relacional - Projeto da Base de Dados 
 
-![Projeto da base de dados](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t4-controle-financeiro/raw/main/docs/img/Projeto_LogicoBancodeDados.png)
+![Projeto da base de dados](img/Projeto_LogicoBancodeDados.png)
 
 ## Modelo Físico
 
-Arquivo banco.sql contendo os scripts de criação das tabelas do banco de dados que consta na pasta https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t4-controle-financeiro/raw/main/src/bd/banco.sql)
+Arquivo banco.sql contendo os scripts de criação das tabelas do banco de dados que consta na pasta src\bd
+![Arquivo banco.sql](../src/bd/banco.sql)
 
 ## Tecnologias Utilizadas
 
