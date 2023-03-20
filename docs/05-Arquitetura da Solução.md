@@ -35,16 +35,33 @@ A hospedagem do back-end é mantida no Azure.
 A hospedagem do banco de dados é mantida em um servidor privado. 
 
 ## Qualidade de Software
+Sabemos que a qualidade de software é a medida em que um software atende aos requisitos do usuário e aos padrões de qualidade estabelecidos. Isso inclui a capacidade do software de funcionar corretamente, de ser fácil de usar e de ser seguro e confiável. A qualidade de software também pode ser medida pela eficiência e eficácia do software, como o seu desempenho por exemplo.
 
-Conceituar qualidade de fato é uma tarefa complexa, mas ela pode ser vista como um método gerencial que através de procedimentos disseminados por toda a organização, busca garantir um produto final que satisfaça às expectativas dos stakeholders.
+Sendo assim o aplicativo de controle financeiro e educação financeira ZCAIXA é um exemplo de software de qualidade. Ele é desenvolvido para ajudar os usuários a controlar suas finanças, gerenciar seus gastos e economizar dinheiro. O aplicativo possui uma interface intuitiva e fácil de usar, o que o torna acessível para usuários de todos os níveis de habilidade.
 
-No contexto de desenvolvimento de software, qualidade pode ser entendida como um conjunto de características a serem satisfeitas, de modo que o produto de software atenda às necessidades de seus usuários. Entretanto, tal nível de satisfação nem sempre é alcançado de forma espontânea, devendo ser continuamente construído. Assim, a qualidade do produto depende fortemente do seu respectivo processo de desenvolvimento.
+Além disso, o ZCAIXA é uma aplicação de alta segurança e perfomance, voltada para o uso do controle financeiro.
+O ZCAIXA também inclui recursos de educação financeira, sobre dinheiro e gerenciar suas finanças. Isso torna o aplicativo uma ferramenta valiosa para quem deseja melhorar sua saúde financeira e alcançar seus objetivos financeiros.
 
-A norma internacional ISO/IEC 25010, que é uma atualização da ISO/IEC 9126, define oito características e 30 subcaracterísticas de qualidade para produtos de software.
-Com base nessas características e nas respectivas sub-características, identifique as sub-características que sua equipe utilizará como base para nortear o desenvolvimento do projeto de software considerando-se alguns aspectos simples de qualidade. Justifique as subcaracterísticas escolhidas pelo time e elenque as métricas que permitirão a equipe avaliar os objetos de interesse.
+Em resumo, o ZCAIXA é um exemplo de software de qualidade que oferece aos usuários um conjunto abrangente de recursos para gerenciar suas finanças e melhorar sua educação financeira. Com sua interface intuitiva e recursos de segurança avançados, o ZCAIXA é a escolha perfeita para quem deseja controlar suas finanças com eficiência e confiabilidade.
 
-> **Links Úteis**:
->
-> - [ISO/IEC 25010:2011 - Systems and software engineering — Systems and software Quality Requirements and Evaluation (SQuaRE) — System and software quality models](https://www.iso.org/standard/35733.html/)
-> - [Análise sobre a ISO 9126 – NBR 13596](https://www.tiespecialistas.com.br/analise-sobre-iso-9126-nbr-13596/)
-> - [Qualidade de Software - Engenharia de Software 29](https://www.devmedia.com.br/qualidade-de-software-engenharia-de-software-29/18209/)
+###Funcionalidade:
+-Ajuda os usuários a controlar suas finanças.
+-Gerencia gastos e ajuda a economizar dinheiro.
+-Oferece recursos de educação financeira.
+
+###Confiabilidade:
+-É seguro e confiável.
+-Possui autenticação(Login/Cadastro) de usuários.
+-Garante a proteção das informações financeiras dos usuários.
+
+###Portabilidade:
+-Disponível como aplicativo móvel.
+-Pode ser usado em diferentes dispositivos móveis (tablets/smartphones).
+-Tem suporte a diferentes sistemas operacionais móveis.
+
+###Manutenção:
+-Possui atualizações regulares para melhorias e correções;
+-Oferece suporte técnico aos usuários;
+-Mantém um registro de erros e bugs para solucioná-los de forma eficaz.
+
+
