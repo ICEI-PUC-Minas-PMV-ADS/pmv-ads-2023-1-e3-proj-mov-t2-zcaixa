@@ -49,19 +49,19 @@ Em resumo, o ZCAIXA é um exemplo de software de qualidade que oferece aos usuá
 -Gerencia gastos e ajuda a economizar dinheiro.
 -Oferece recursos de educação financeira.
 
-###Confiabilidade:
--É seguro e confiável.
--Possui autenticação(Login/Cadastro) de usuários.
--Garante a proteção das informações financeiras dos usuários.
+### Confiabilidade:
+- É seguro e confiável.
+- Possui autenticação(Login/Cadastro) de usuários.
+- Garante a proteção das informações financeiras dos usuários.
 
-###Portabilidade:
--Disponível como aplicativo móvel.
--Pode ser usado em diferentes dispositivos móveis (tablets/smartphones).
--Tem suporte a diferentes sistemas operacionais móveis.
+### Portabilidade:
+- Disponível como aplicativo móvel.
+- Pode ser usado em diferentes dispositivos móveis (tablets/smartphones).
+- Tem suporte a diferentes sistemas operacionais móveis.
 
-###Manutenção:
--Possui atualizações regulares para melhorias e correções;
--Oferece suporte técnico aos usuários;
--Mantém um registro de erros e bugs para solucioná-los de forma eficaz.
+### Manutenção:
+- Possui atualizações regulares para melhorias e correções;
+- Oferece suporte técnico aos usuários;
+- Mantém um registro de erros e bugs para solucioná-los de forma eficaz.
 
 
