@@ -45,9 +45,9 @@ O ZCaixa também inclui recursos de educação financeira, sobre dinheiro e gere
 Em resumo, o ZCaixa é um exemplo de software de qualidade que oferece aos usuários um conjunto abrangente de recursos para gerenciar suas finanças e melhorar sua educação financeira. Com sua interface intuitiva e recursos de segurança avançados, o aplicativo é a escolha perfeita para quem deseja controlar suas finanças com eficiência e confiabilidade.
 
 ### Funcionalidade:
--Ajuda os usuários a controlar suas finanças.
--Gerencia gastos e ajuda a economizar dinheiro.
--Oferece recursos de educação financeira.
+- Ajuda os usuários a controlar suas finanças.
+- Gerencia gastos e ajuda a economizar dinheiro.
+- Oferece recursos de educação financeira.
 
 ### Confiabilidade:
 - É seguro e confiável.
