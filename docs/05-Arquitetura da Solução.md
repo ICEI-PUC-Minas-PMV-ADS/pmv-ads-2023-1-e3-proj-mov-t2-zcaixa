@@ -37,12 +37,12 @@ A hospedagem do banco de dados é mantida em um servidor privado.
 ## Qualidade de Software
 Sabemos que a qualidade de software é a medida em que um software atende aos requisitos do usuário e aos padrões de qualidade estabelecidos. Isso inclui a capacidade do software de funcionar corretamente, de ser fácil de usar e de ser seguro e confiável. A qualidade de software também pode ser medida pela eficiência e eficácia do software, como o seu desempenho por exemplo.
 
-Sendo assim o aplicativo de controle financeiro e educação financeira ZCAIXA é um exemplo de software de qualidade. Ele é desenvolvido para ajudar os usuários a controlar suas finanças, gerenciar seus gastos e economizar dinheiro. O aplicativo possui uma interface intuitiva e fácil de usar, o que o torna acessível para usuários de todos os níveis de habilidade.
+Sendo assim o aplicativo de controle financeiro e educação financeira ZCaixa é um exemplo de software de qualidade. Ele é desenvolvido para ajudar os usuários a controlar suas finanças, gerenciar seus gastos e economizar dinheiro. O aplicativo possui uma interface intuitiva e fácil de usar, o que o torna acessível para usuários de todos os níveis de habilidade.
 
-Além disso, o ZCAIXA é uma aplicação de alta segurança e perfomance, voltada para o uso do controle financeiro.
-O ZCAIXA também inclui recursos de educação financeira, sobre dinheiro e gerenciar suas finanças. Isso torna o aplicativo uma ferramenta valiosa para quem deseja melhorar sua saúde financeira e alcançar seus objetivos financeiros.
+Além disso, o ZCaixa é uma aplicação de alta segurança e perfomance, voltada para o uso do controle financeiro.
+O ZCaixa também inclui recursos de educação financeira, sobre dinheiro e gerenciar suas finanças. Isso torna o aplicativo uma ferramenta valiosa para quem deseja melhorar sua saúde financeira e alcançar seus objetivos financeiros.
 
-Em resumo, o ZCAIXA é um exemplo de software de qualidade que oferece aos usuários um conjunto abrangente de recursos para gerenciar suas finanças e melhorar sua educação financeira. Com sua interface intuitiva e recursos de segurança avançados, o ZCAIXA é a escolha perfeita para quem deseja controlar suas finanças com eficiência e confiabilidade.
+Em resumo, o ZCaixa é um exemplo de software de qualidade que oferece aos usuários um conjunto abrangente de recursos para gerenciar suas finanças e melhorar sua educação financeira. Com sua interface intuitiva e recursos de segurança avançados, o aplicativo é a escolha perfeita para quem deseja controlar suas finanças com eficiência e confiabilidade.
 
 ### Funcionalidade:
 -Ajuda os usuários a controlar suas finanças.
