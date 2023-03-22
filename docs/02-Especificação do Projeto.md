@@ -136,53 +136,9 @@ Para este projeto foram definidos 5 indicadores de desempenho, listados abaixo c
 
 |  | INDICADOR   |  OBJETIVO   |  UNIDADE | PERIODICIDADE | RESPONSÁVEL |  FÓRMULA | INTERVALO DE VALIDADE | VARIÁVEIS |
 |--|-------------|-------------|----------|---------------|-------------|----------|-----------------------|-----------|
-|01| O projeto deverá ser | O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |
-|02| O projeto deverá ser | O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |
-|03| O projeto deverá ser | O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |
-|04| O projeto deverá ser | O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |
-|05| O projeto deverá ser | O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |
+|01| Tempo médio de atendimento (TMA) | contribuir para a diminuição do TMA da empresa | tickets resolvidos / dia | avaliação mensal | Gerente de Atendimento ao cliente |TMA = tempo total de atendimento ÷ quantidade de tickets resolvidos |ideal = entre 1 a 2 dias | tickets e tempo de atendimento |
+|02| O projeto deverá ser | O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |ideal = 0,80 a 1,00 |O projeto deverá ser |
+|03| O projeto deverá ser | O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |ideal = 0,80 a 1,00 |O projeto deverá ser |
+|04| O projeto deverá ser | O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |ideal = 0,80 a 1,00 |O projeto deverá ser |
+|05| O projeto deverá ser | O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |ideal = 0,80 a 1,00 |O projeto deverá ser |
 
-
-# Indicador 1:
-
-Nome:
-Objetivo:
-Unidade de medida:
-Periodicidade:
-Responsável:
-Fórmula:
-Intervalo de validade: ideal = 0,80 a 1,00
-Variáveis necessárias:
-
-# Indicador 2:
-
-Nome:
-Objetivo:
-Unidade de medida:
-Periodicidade:
-Responsável:
-Fórmula:
-Intervalo de validade: ideal = 0,80 a 1,00
-Variáveis necessárias:
-
-# Indicador 3:
-
-Nome:
-Objetivo:
-Unidade de medida:
-Periodicidade:
-Responsável:
-Fórmula:
-Intervalo de validade: ideal = 0,80 a 1,00
-Variáveis necessárias:
-
-# Indicador 4:
-
-Nome:
-Objetivo:
-Unidade de medida:
-Periodicidade:
-Responsável:
-Fórmula:
-Intervalo de validade: ideal = 0,80 a 1,00
-Variáveis necessárias:
