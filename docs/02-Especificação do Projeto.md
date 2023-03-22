@@ -115,3 +115,75 @@ O cronograma do projeto foi desenvolvido no software MS Project, seguindo as dir
 O orçamento do projeto foi definido realizando a pesquisa pelos materiais necessários para a conclusão do projeto tendo em vista o prazo de entrega, quantidade de membros da equipe e horas estipuladas conforme seção anterior.
 
 ![Orçamento ZCaixa](img/orcamento-projeto.png)
+
+## Indicadores de Desempenho
+
+Indicadores de desempenho são medidas calculadas e compostas por métricas, geralmente ao final de cada processo do projeto. Entre os papéis de um indicador estão: transmitir as necessidades e expectativas dos clientes; viabilizar o desdobramento das metas do negócio; dar suporte à análise crítica dos resultados do negócio, às tomadas de decisão e ao novo planejamento; contribuir para a melhoria dos proceso e produtos.
+
+Para construir um indicador é necessário:
+
+- Nomear o indicador;
+- Definir seu objetivo;
+- Definir unidade de medida;
+- Estabelecer periodicidade de cálculo;
+- Indicar responsável pela geração e divulgação;
+- Definir fórmula de cálculo;
+- Indicar seu intervalo de validade;
+- Apontar onde e como as variáveis serão capturadas (fonte de dados);
+- Definir usuários.
+
+Para este projeto foram definidos 5 indicadores de desempenho, listados abaixo conforme métricas descritas anteriormente:
+
+|ID| INDICADOR             |ID| INDICADOR             |
+|--|-----------------------|--|-----------------------|
+
+|01| O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 23/06/2023 |
+|02| O aplicativo deve se restringir às tecnologias básicas de desenvolvimento mobile React Native e banco de dados |
+|03| A equipe não pode subcontratar o desenvolvimento do trabalho        |
+|04| A equipe usará o modelo Kanban para o gerenciamento do projeto      |
+|05| O sistema permitirá o cadastro de pessoas maiores de 16 anos        |
+
+
+# Indicador 1:
+
+Nome:
+Objetivo:
+Unidade de medida:
+Periodicidade:
+Responsável:
+Fórmula:
+Intervalo de validade: ideal = 0,80 a 1,00
+Variáveis necessárias:
+
+# Indicador 2:
+
+Nome:
+Objetivo:
+Unidade de medida:
+Periodicidade:
+Responsável:
+Fórmula:
+Intervalo de validade: ideal = 0,80 a 1,00
+Variáveis necessárias:
+
+# Indicador 3:
+
+Nome:
+Objetivo:
+Unidade de medida:
+Periodicidade:
+Responsável:
+Fórmula:
+Intervalo de validade: ideal = 0,80 a 1,00
+Variáveis necessárias:
+
+# Indicador 4:
+
+Nome:
+Objetivo:
+Unidade de medida:
+Periodicidade:
+Responsável:
+Fórmula:
+Intervalo de validade: ideal = 0,80 a 1,00
+Variáveis necessárias:
