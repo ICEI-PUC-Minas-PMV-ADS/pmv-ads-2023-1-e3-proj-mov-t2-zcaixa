@@ -137,8 +137,10 @@ Para este projeto foram definidos 5 indicadores de desempenho, listados abaixo c
 |  | INDICADOR   |  OBJETIVO   |  UNIDADE | PERIODICIDADE | RESPONSÁVEL |  FÓRMULA | INTERVALO DE VALIDADE | VARIÁVEIS |
 |--|-------------|-------------|----------|---------------|-------------|----------|-----------------------|-----------|
 |01| Tempo médio de atendimento (TMA) | contribuir para a diminuição do TMA da empresa | tickets resolvidos por dia | avaliação mensal | Gerente de Atendimento ao cliente |TMA = tempo total de atendimento ÷ quantidade de tickets resolvidos |ideal = entre 1 a 2 dias | tickets e tempo de atendimento |
-|02| O projeto deverá ser | O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |ideal = 0,80 a 1,00 |O projeto deverá ser |
-|03| O projeto deverá ser | O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |ideal = 0,80 a 1,00 |O projeto deverá ser |
-|04| O projeto deverá ser | O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |ideal = 0,80 a 1,00 |O projeto deverá ser |
-|05| O projeto deverá ser | O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |ideal = 0,80 a 1,00 |O projeto deverá ser |
+|02| Índice de disponibilidade do sistema | aumentar o período de disponibilidade do sistema | disponiblidade por dia ao mês | mensal | Gerente de Arquitetura do Sistema | % Índice de Disponibilidade do Sistema = (tempo disponível × 100) ÷ tempo total do período | ideal = superior a 95% | tempo disponível |
+|03| Tempo médio para reparo | diminuir o tempo médio de reparo | falhas por tempo de reparo | mensal | Gerente de Desenvolvimento | Tempo Médio para Reparo = tempo total para reparo ÷ n.º de falhas | ideal = menor que 1 dia | tempo de reparo e nº de falhas |
+|04| Taxa de bugs críticos | diminuir a quantidade de bugs críticos | bugs críticos por falhas | mensal | Gerente de Qualidade | % Taxa de Bugs Críticos = (bugs críticos × 100) ÷ n.º de falhas | ideal = 1 bug crítico a cada 10 falhas | bugs críticos e falhas |
+|05| Custo por ticket | diminuir o custo por falha | falha por R$ empenhado | mensal | Gerente de Orçamento | Custo de falhas ÷ n.º de falhas | ideal = entre 0 e R$1000,00 | custo e falhas |
+
+
 
