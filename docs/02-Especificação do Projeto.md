@@ -134,14 +134,13 @@ Para construir um indicador é necessário:
 
 Para este projeto foram definidos 5 indicadores de desempenho, listados abaixo conforme métricas descritas anteriormente:
 
-|ID| INDICADOR             |ID| INDICADOR             |
-|--|-----------------------|--|-----------------------|
-
-|01| O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 23/06/2023 |
-|02| O aplicativo deve se restringir às tecnologias básicas de desenvolvimento mobile React Native e banco de dados |
-|03| A equipe não pode subcontratar o desenvolvimento do trabalho        |
-|04| A equipe usará o modelo Kanban para o gerenciamento do projeto      |
-|05| O sistema permitirá o cadastro de pessoas maiores de 16 anos        |
+|  | INDICADOR   |  OBJETIVO   |  UNIDADE | PERIODICIDADE | RESPONSÁVEL |  FÓRMULA | INTERVALO DE VALIDADE | VARIÁVEIS |
+|--|-------------|-------------|----------|---------------|-------------|----------|-----------------------|-----------|
+|01| O projeto deverá ser | O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |
+|02| O projeto deverá ser | O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |
+|03| O projeto deverá ser | O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |
+|04| O projeto deverá ser | O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |
+|05| O projeto deverá ser | O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |O projeto deverá ser |
 
 
 # Indicador 1:
