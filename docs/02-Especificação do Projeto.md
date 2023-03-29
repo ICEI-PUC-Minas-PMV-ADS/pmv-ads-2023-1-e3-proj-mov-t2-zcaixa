@@ -136,11 +136,11 @@ Para este projeto foram definidos 5 indicadores de desempenho, listados abaixo c
 
 |  | INDICADOR   |  OBJETIVO   |  UNIDADE | PERIODICIDADE | RESPONSÁVEL |  FÓRMULA | INTERVALO DE VALIDADE | VARIÁVEIS |
 |--|-------------|-------------|----------|---------------|-------------|----------|-----------------------|-----------|
-|01| Tempo médio de atendimento (TMA) | contribuir para a diminuição do TMA da empresa | tickets resolvidos por dia | avaliação mensal | Gerente de Atendimento ao cliente |TMA = tempo total de atendimento ÷ quantidade de tickets resolvidos |ideal = entre 1 a 2 dias | tickets e tempo de atendimento |
-|02| Índice de disponibilidade do sistema | aumentar o período de disponibilidade do sistema | disponiblidade por dia ao mês | mensal | Gerente de Arquitetura do Sistema | % Índice de Disponibilidade do Sistema = (tempo disponível × 100) ÷ tempo total do período | ideal = superior a 95% | tempo disponível |
-|03| Tempo médio para reparo | diminuir o tempo médio de reparo | falhas por tempo de reparo | mensal | Gerente de Desenvolvimento | Tempo Médio para Reparo = tempo total para reparo ÷ n.º de falhas | ideal = menor que 1 dia | tempo de reparo e nº de falhas |
-|04| Taxa de bugs críticos | diminuir a quantidade de bugs críticos | bugs críticos por falhas | mensal | Gerente de Qualidade | % Taxa de Bugs Críticos = (bugs críticos × 100) ÷ n.º de falhas | ideal = 1 bug crítico a cada 10 falhas | bugs críticos e falhas |
-|05| Custo por ticket | diminuir o custo por falha | falha por R$ empenhado | mensal | Gerente de Orçamento | Custo de falhas ÷ n.º de falhas | ideal = entre 0 e R$1000,00 | custo e falhas |
+|01| Número de Downloads do Aplicativo na App Store | Meta primária de 1.000 downloads/mês | downloads/mês | avaliação mensal | Project Manager | downloads/mês | ideal = >1000 | downloads e tempo|
+|02| Avaliações positivas na App Store | Manter avaliação acima de 4 | avaliações positivas | mensal | Project Manager | 90% das avaliações acima de 4,5 | ideal = superior a 4,5 | avaliações positivas por mês |
+|03| Quantidade de usuários cadastrados | ter pelo menos 600 cadastros/mês | cadastros/mês | mensal | Equipe de Desenvolvimento | cadastros/mês | ideal = acima de 600 cadastros/mês | cadastros e tempo |
+|04| Tempo de uso do sistema por usuário | aumentar o tempo de uso por usuário a pelo meno 20min/sem | min/semana | semanal | Equipe de Desenvolvimento | tempo de uso por semana | ideal = acima de 20min por semana | tempo de uso semanal |
+|05| Usuários ativos | garantir que usuários estejam ativos pelo menos 3 dias na semana | dias ativos por semana| semana | Equipe de Desenvolvimento | dias ativos por semana | ideal = acima de 3 dias | dias ativos |
 
 
 
