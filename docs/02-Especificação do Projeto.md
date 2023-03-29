@@ -137,7 +137,7 @@ Para este projeto foram definidos 5 indicadores de desempenho, listados abaixo c
 |  | INDICADOR   |  OBJETIVO   |  UNIDADE | PERIODICIDADE | RESPONSÁVEL |  FÓRMULA | INTERVALO DE VALIDADE | VARIÁVEIS |
 |--|-------------|-------------|----------|---------------|-------------|----------|-----------------------|-----------|
 |01| Número de Downloads do Aplicativo na App Store | Meta primária de 1.000 downloads/mês | downloads/mês | avaliação mensal | Project Manager | downloads/mês | ideal = >1000 | downloads e tempo|
-|02| Avaliações positivas na App Store | Manter avaliação acima de 4 | avaliações positivas | mensal | Project Manager | 90% das avaliações acima de 4,5 | ideal = superior a 4,5 | avaliações positivas por mês |
+|02| Avaliações na App Store | Manter médias das avaliações acima de 4 | % de avaliações positivas | mensal | Project Manager | 90% das avaliações acima de 4,5 | ideal = superior a 4,5 | avaliações positivas por mês |
 |03| Quantidade de usuários cadastrados | ter pelo menos 600 cadastros/mês | cadastros/mês | mensal | Equipe de Desenvolvimento | cadastros/mês | ideal = acima de 600 cadastros/mês | cadastros e tempo |
 |04| Tempo de uso do sistema por usuário | aumentar o tempo de uso por usuário a pelo meno 20min/sem | min/semana | semanal | Equipe de Desenvolvimento | tempo de uso por semana | ideal = acima de 20min por semana | tempo de uso semanal |
 |05| Usuários ativos | garantir que usuários estejam ativos pelo menos 3 dias na semana | dias ativos por semana| semana | Equipe de Desenvolvimento | dias ativos por semana | ideal = acima de 3 dias | dias ativos |
