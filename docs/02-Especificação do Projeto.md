@@ -119,6 +119,11 @@ O orçamento do projeto foi definido realizando a pesquisa pelos materiais neces
 ## Modelagem do Processo de Negócio (BPMN)
 
 
+![Fluxo do Projeto - ZCaixa Diagrama 2](https://user-images.githubusercontent.com/59934631/229312742-a40a5f41-a636-4267-be17-984889fcf722.png)
+
+
+![Fluxo do Projeto - ZCaixa Diagrama 3](https://user-images.githubusercontent.com/59934631/229312732-723c92fd-01c5-4c49-88db-2261694e5938.png)
+
 
 ## Indicadores de Desempenho
 
