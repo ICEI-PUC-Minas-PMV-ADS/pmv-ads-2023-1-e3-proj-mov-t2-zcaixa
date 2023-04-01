@@ -81,7 +81,7 @@ Ao realizar reuniões para continuidade do projeto, são definidos os cards de t
 As ferramentas empregadas no projeto são:
 
 - Editor de código : Visual Studio Code.
-- Emulador do aplicação: Android Studio, NPM
+- Emulador da aplicação: Android Studio, NPM
 - Ferramentas de comunicação: Whatsapp, Teams.
 - Ferramentas de desenho de tela (_wireframing_): MarvelAPP, Heflo
 - Ferramentas para diagramas (conceitual e lógico): Diagrams.net, Astah, Lucid Charts, BRMW
