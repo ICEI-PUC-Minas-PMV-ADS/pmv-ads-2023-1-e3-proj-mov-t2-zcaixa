@@ -118,6 +118,11 @@ O orçamento do projeto foi definido realizando a pesquisa pelos materiais neces
 
 ## Modelagem do Processo de Negócio (BPMN)
 
+As definições de processo de negócio são muitas, mas segundo Baldam (2014, p. 161) uma delas pode ser: “Sequência de passos (lógicos e as vezes não lógicos) que têm como entrada de diversos tipos (como material bruto, informação, conhecimento, compromissos, estado) e os transforma em saídas e resultados.”
+
+O BPMN (Business Process Model and Notation) é um padrão criado pelo Object Management Group, útil para apresentar um modelo para públicos-alvo diferentes. Este padrão visa oferecer uma notação mais facilmente compreendida e usada por todos os envolvidos nos processos de negócio; dos estrategistas e analistas de negócio (que criam versões iniciais dos processos) aos técnicos responsáveis pela seleção e implementação das tecnologias que apoiarão o gerenciamento e monitoramento desses processos. Trata-se de uma técnica abrangente e que oferece recursos para a modelagem dos mais variados tipos de processos de qualquer tipo e natureza, como: administrativos (compras, vendas, controle de materiais etc.), financeiros (empréstimos, aplicações, controle de capital etc.), operacionais (manutenção, fabricação, distribuição etc.), garantia da qualidade, desenvolvimento de software, desenvolvimento de produtos ou de serviços etc.”
+
+Desta forma, a equipe de desenvolvimento procurou modelar os processos de negócio (imagens abaixo), tanto para a ferramenta em desenvolvimento, quanto para um processo que pode ser considerado mais usual, que utiliza o Excel como ferramenta de gestão financeira.
 
 <img width="2500" alt="BPMN Projeto" src=https://user-images.githubusercontent.com/59934631/229312742-a40a5f41-a636-4267-be17-984889fcf722.png>
 
