@@ -28,11 +28,13 @@ Na seção Wireframes abaixo consta as imagens da tela assim como seu navegável
 
 
 ## Diagrama de Fluxo
+O diagrama apresenta o estudo do fluxo de interação do usuário com o sistema interativo. Isso permite que o design das interações seja bem planejado e gere impacto na qualidade no design do wireframe interativo.
 
 ![Diagrama de Fluxo](img/Diagrama_de_Fluxo.PNG)
 
 
 ## Wireframes
+São protótipos usados em design de interface para sugerir a estrutura de uma aplicação móvel. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
 
 [Link Wireframe interativo (MarvelAPP)](https://marvelapp.com/prototype/6a20jd5)
 
