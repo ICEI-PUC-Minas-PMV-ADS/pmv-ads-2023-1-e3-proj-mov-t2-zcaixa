@@ -5,14 +5,17 @@
 Definição de como o software é estruturado em termos dos componentes que fazem parte da solução e do ambiente de hospedagem da aplicação.
 
 ## Diagrama de Classes
+O diagrama de classes ilustra graficamente como será a estrutura do software, e como cada uma das classes da sua estrutura estarão interligadas. Essas classes servem de modelo para materializar os objetos que executarão na memória.
 
 ![Diagrama de Classes](img/DiagramaClasse2.png)
 
 ## Modelo ER (Projeto Conceitual)
+O Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa.
 
 ![Modelo ER](img/DER.png)
 
 ##  Esquema Relacional - Projeto da Base de Dados 
+O Esquema Relacional corresponde à representação dos dados em tabelas juntamente com as restrições de integridade e chave primária.
 
 ![Projeto da base de dados](img/Projeto_LogicoBancodeDados.png)
 
