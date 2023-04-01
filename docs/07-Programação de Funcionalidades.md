@@ -2,6 +2,15 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="5-Arquitetura da Solução.md"> Arquitetura da Solução</a>
 
+##Artefatos
+
+No projeto nominado "ZCaixa Mobile" no Visual Studio Code,  seguimos realizado o desenvolvimento do projeto por meio Local (na própria máquina). Ao finalizar as alterações necessárias e realizado commit para o presente respositório, outro membro do grupo pode importar as atualizações por meio do GitHub Desktop e dar andamento em seu VSCode local. 
+
+Iniciando o a atendimento aos requisitos RF-007	e RF-008, implementamos o front-end das telas onde as funcionalidades de login, cadastro e recuperação de senha estarão associadas. Os arquivos (ou páginas da aplicação) Inicio.tsx e Login.tsx utilizam a variável "styles" localizada no arquivo Estilos.tsx onde importam as propriedades de estilização para os objetos das páginas (textos, botões, tamanhos, espaçamentos...). 
+Abaixo a print de parte dos códigos:
+
+
+
 Implementação do sistema descritas por meio dos requisitos funcionais e/ou não funcionais. Deve relacionar os requisitos atendidos os artefatos criados (código fonte) além das estruturas de dados utilizadas e as instruções para acesso e verificação da implementação que deve estar funcional no ambiente de hospedagem.
 
 Para cada requisito funcional, pode ser entregue um artefato desse tipo
