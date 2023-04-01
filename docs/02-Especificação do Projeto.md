@@ -122,7 +122,7 @@ O orçamento do projeto foi definido realizando a pesquisa pelos materiais neces
 <img width="2500" alt="BPMN Projeto" src=https://user-images.githubusercontent.com/59934631/229312742-a40a5f41-a636-4267-be17-984889fcf722.png>
 
 
-<img width="800" alt="BPMN com Excel" src=https://user-images.githubusercontent.com/59934631/229312732-723c92fd-01c5-4c49-88db-2261694e5938.png>
+<img width="700" alt="BPMN com Excel" src=https://user-images.githubusercontent.com/59934631/229312732-723c92fd-01c5-4c49-88db-2261694e5938.png>
 
 
 ## Indicadores de Desempenho
