@@ -14,6 +14,17 @@
 ||7 - Clicar no botão "Enviar" |
 |`Critério de Êxito` | O usuário criou um login e senha e conseguiu redecuperar a senha. |
 
+| Casos de Teste | CT-01b - Acessar tela de login e cadastro de usuário 
+|--------------------|------------------------------------|
+|`Requisitos Associados` | RF-007 - O sistema terá tela de Login e senha // RNF-007 - A plataforma interativa deve permitir o acesso apenas de usuários cadastrados |
+|`Objetivo do teste` | Testar o acesso a tela de login e simular uma tentativa de acesso com a senha errada 
+|`Passos` | 
+||1 - Acessar o aplicativo móvel |
+||2 - Clicar em "Entrar" |
+||3 - Colocar um email válido e colocar uma senha que não é válida |
+||4 - Clicar em "Entrar"|
+|`Critério de Êxito` | O usuário tentou acessar com uma senha diferente e o aplicativo móvel informou que a senha não era válida. 
+
 
 | Casos de Teste | CT-02 - Criar categorias |
 |--------------------|------------------------------------|
@@ -30,6 +41,20 @@
 ||8 - Clicar no botão "Inserir categoria"  |
 |`Critério de Êxito` | As categorias foram criadas. |
 
+| Casos de Teste | CT-02b - Criar categorias |
+|--------------------|------------------------------------|
+|`Requisitos Associados` | RF-01 -  O sistema permite agrupar valores por seções (categorias) |
+|`Objetivo do teste` | Testar a criação de categorias, sem colocar a informação do nome da categoria |
+|`Passos` | 
+||1 - Acessar o aplicativo móvel |
+||2 - Clicar em "Entrar"|
+||3 - Informar o Usuário e Senha |
+||4 - Clicar no botão "Entrar" |
+||5 - Clicar no botão " + " |
+||6 - Clicar no botão "Categorias" |
+||7 - não informar o título da categoria. informar somente o tipo (débito ou crédito)|
+||8 - Clicar no botão "Inserir categoria"  |
+|`Critério de Êxito` | O sistema informou que não foi possível criar a categoria. |
 
 | Casos de Teste | CT-03 - Fazer lançamentos, visualizar lançamentos por mês (entradas e saída por mês) |
 |--------------------|------------------------------------|
@@ -47,8 +72,22 @@
 ||9 - Clicar no botão "Ok" |
 |`Critério de Êxito` | Lançamentos feitos com sucesso, Filtros por período realizado. |
 
+| Casos de Teste | CT-03b - Fazer lançamentos |
+|--------------------|------------------------------------|
+|`Requisitos Associados` | RF-002 - O sistema permite o lançamento de débitos // RF-003 - O sistema permite o lançamento de créditos // RF-004 - O sistema permite datar lançamentos (exemplo: pagamentos ou recebimentos futuros)  // RF-005 - O sistema permite a visualização de entradas e saídas por mês |
+|`Objetivo do teste` | Realizar lançamentos sem colocar uma informação |
+|`Passos` | 
+||1 - Acessar o aplicativo móvel |
+||2 - Clicar em "Entrar" |
+||3 - Informar o Usuário e Senha | 
+||4 - Clicar no botão "Entrar" |
+||5 - Clicar no botão " + " |
+||6 - Preencher quase todos os campos obrigatórios |
+||7 - Clicar no botão "Inserir" | 
+|`Critério de Êxito` | O sistema informou que não foi possível concluir o lançamento. |
 
-| Casos de Teste | CT-04- Definir meta e visualizar alterações no status da meta|
+
+| Casos de Teste | CT-04 - Definir meta e visualizar alterações no status da meta|
 |--------------------|------------------------------------|
 |`Requisitos Associados` | RF-006 - O sistema permite a definição de meta e visualização do progresso de atingimento |
 |`Objetivo do teste` | Definir e visualizar progresso da meta |
@@ -62,3 +101,17 @@
 ||7 - Clicar o botão "Inserir" | 
 ||8 - Clicar em "Resumo" |
 |`Critério de Êxito` | Meta cadastrada e o status visualizado na aba "Resumo" |
+
+| Casos de Teste | CT-04b - Não definir meta |
+|--------------------|------------------------------------|
+|`Requisitos Associados` | RF-006 - O sistema permite a definição de meta e visualização do progresso de atingimento |
+|`Objetivo do teste` | não conseguir visualizar progresso da meta |
+|`Passos` | 
+||1 - Acessar o aplicativo móvel |
+||2 - Clicar em "Entrar" |
+||3 - Informar o Usuário e Senha |
+||4 - Clicar no botão "Entrar" |
+||5 - Clicar no botão "+" |
+||6 - não informar o valor da meta |
+||7 - Clicar o botão "Inserir" | 
+|`Critério de Êxito` | A meta não foi cadastrada |
