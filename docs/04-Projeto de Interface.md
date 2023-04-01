@@ -34,7 +34,7 @@ O diagrama apresenta o estudo do fluxo de interação do usuário com o sistema 
 
 
 ## Wireframes
-São protótipos usados em design de interface para sugerir a estrutura de uma aplicação móvel. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
+Protótipos usados em design de interface desenvolvidos no MarvelApp.
 
 [Link Wireframe interativo (MarvelAPP)](https://marvelapp.com/prototype/6a20jd5)
 
