@@ -23,6 +23,24 @@ Gerenciamento do Projeto | Sprints / Diagrama de Gantt | À definir
 
 A gestão do código fonte do projeto é baseada no conteúdo proporcionado na orientação do projeto, que se dá pela opção commit no GitHub sendo atualizado os requisitos implementados ou ajustados no código fonte, ao mesmo tempo em que se atualiza os cards de sprints apresentados no quadro de tarefas.
 
+## Controle de Versão
+
+A **ferramenta de controle** de versão adotada no projeto foi o
+[Git](https://git-scm.com/), sendo que o [Github](https://github.com)
+foi utilizado para hospedagem do repositório.
+
+**O projeto segue o seguinte fluxo de trabalho:**
+
+<Img src="https://user-images.githubusercontent.com/59934631/164794368-739291c2-9ffa-4d38-ae37-640a3dc633b8.png">
+
+**As ramificações podem ser descritas como:**
+
+- **`Master`**: versão original ou espelho da ***versão atual da aplicação***;
+- **`Develop`**: cópia da ramificação 'Master" com funcionalidades ainda não publicadass ***(base para 'Feature')***;
+- **`Feature`**: ramificação temporária e auxiliar, contendo uma nova ***funcionalidade específica***;
+- **`Hotfix`**: ramificação temporária e auxiliar, que contém correções rápidas a serem incluídas direto nas  ramificações **'Main'** e **'Develop'**;
+- **`Release`**: ramificação que une os que está pronto em **'Develop'** e inclui na **'Main'** e a partir daí é criada uma nova versão da aplicação.
+
 ## Gerenciamento de Projeto
 
 A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento.
