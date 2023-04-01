@@ -116,6 +116,10 @@ O orçamento do projeto foi definido realizando a pesquisa pelos materiais neces
 
 ![Orçamento ZCaixa](img/orcamento-projeto.png)
 
+## Modelagem do Processo de Negócio (BPMN)
+
+
+
 ## Indicadores de Desempenho
 
 Indicadores de desempenho são medidas calculadas e compostas por métricas, geralmente ao final de cada processo do projeto. Entre os papéis de um indicador estão: transmitir as necessidades e expectativas dos clientes; viabilizar o desdobramento das metas do negócio; dar suporte à análise crítica dos resultados do negócio, às tomadas de decisão e ao novo planejamento; contribuir para a melhoria dos proceso e produtos.
