@@ -47,6 +47,8 @@ A hospedagem do back-end é mantida no Azure.
 
 A hospedagem do banco de dados é mantida em um servidor privado. 
 
+A aplicação ficará disponibilizada no Google Play(Android). 
+
 ## Qualidade de Software
 Sabemos que a qualidade de software é a medida em que um software atende aos requisitos do usuário e aos padrões de qualidade estabelecidos. Isso inclui a capacidade do software de funcionar corretamente, de ser fácil de usar e de ser seguro e confiável. A qualidade de software também pode ser medida pela eficiência e eficácia do software, como o seu desempenho por exemplo.
 
