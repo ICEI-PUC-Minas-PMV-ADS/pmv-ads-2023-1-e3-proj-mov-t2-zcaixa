@@ -4,7 +4,7 @@
  
 ## Artefatos
 
-No projeto nominado "ZCaixa Mobile" no Visual Studio Code,  seguimos realizado o desenvolvimento do projeto por meio Local (na própria máquina). Ao finalizar as alterações necessárias e realizado commit para o presente respositório, outro membro do grupo pode importar as atualizações por meio do GitHub Desktop e dar andamento em seu VSCode local. 
+No projeto nominado "ZCaixa Mobile" no Visual Studio Code,  seguimos realizando o desenvolvimento do projeto por meio Local (na própria máquina). Ao finalizar as alterações necessárias e realizando commit para o presente respositório, outro membro do grupo pode importar as atualizações por meio do GitHub Desktop e dar andamento em seu VSCode local. 
 
 Iniciando o a atendimento aos requisitos RF-007	e RF-008, implementamos o front-end das telas onde as funcionalidades de login, cadastro e recuperação de senha estarão associadas. Os arquivos (ou páginas da aplicação) Inicio.tsx e Login.tsx utilizam a variável "styles" localizada no arquivo Estilos.tsx onde importam as propriedades de estilização para os objetos das páginas (textos, botões, tamanhos, espaçamentos...). 
 Abaixo a print de parte dos códigos:
@@ -17,16 +17,3 @@ Abaixo a print de parte dos códigos:
 
 **Variável styles**
 > ![Estilos.tsx](img/progfuncionalidades/estilostsx.png)
-
-
-Implementação do sistema descritas por meio dos requisitos funcionais e/ou não funcionais. Deve relacionar os requisitos atendidos os artefatos criados (código fonte) além das estruturas de dados utilizadas e as instruções para acesso e verificação da implementação que deve estar funcional no ambiente de hospedagem.
-
-Para cada requisito funcional, pode ser entregue um artefato desse tipo
-
-> **Links Úteis**:
->
-> - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
-> - [JSON Tutorial](https://www.w3resource.com/JSON)
-> - [JSON Data Set Sample](https://opensource.adobe.com/Spry/samples/data_region/JSONDataSetSample.html)
-> - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
-> - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
