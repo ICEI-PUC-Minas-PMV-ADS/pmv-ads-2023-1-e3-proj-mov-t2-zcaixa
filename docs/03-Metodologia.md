@@ -15,9 +15,8 @@ Documentos do projeto | GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-a
 
 Projeto de Interface e Wireframes | MarvelApp | [Marvel APP - ZCaixa Mobile](https://marvelapp.com/prototype/6a20jd5)
 
-Gerenciamento do Projeto | GitHub | https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/123
+Gerenciamento do Projeto | Sprints / Diagrama de Gantt | GitHub | https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/123
 
-Gerenciamento do Projeto | Sprints / Diagrama de Gantt | À definir
 
 ## Gestão de Código Fonte 
 
