@@ -12,18 +12,18 @@
 ||5 - Clicar em "Esqueceu sua senha?" |
 ||6 - Preencher o campo com "E-mail, usuário ou telefone" |
 ||7 - Clicar no botão "Enviar" |
-|`Critério de Êxito` | O usuário criou um login e senha e conseguiu recuperar a senha. |
+|`Critério de Êxito` | O usuário criou um login e senha, realizou o acesso e conseguiu recuperar a senha. |
 
-| Casos de Teste | CT-01b - Acessar tela de login e cadastro de usuário 
+| Casos de Teste | CT-01b - Acessar tela de login 
 |--------------------|------------------------------------|
 |`Requisitos Associados` | RF-007 - O sistema terá tela de Login e senha // RNF-007 - A plataforma interativa deve permitir o acesso apenas de usuários cadastrados |
 |`Objetivo do teste` | Testar o acesso a tela de login e simular uma tentativa de acesso com a senha errada 
 |`Passos` | 
 ||1 - Acessar o aplicativo móvel |
 ||2 - Clicar em "Entrar" |
-||3 - Colocar um email válido e colocar uma senha que não é válida |
+||3 - Colocar um e-mail ou senha inválidos |
 ||4 - Clicar em "Entrar"|
-|`Critério de Êxito` | O usuário tentou acessar com uma senha diferente e o aplicativo móvel informou que a senha não era válida. 
+|`Critério de Êxito` | O usuário tentou acessar com e-mail ou senha incorretos e o aplicativo móvel informou que os dados não são válidos. 
 
 
 | Casos de Teste | CT-02 - Criar categorias |
@@ -101,17 +101,3 @@
 ||7 - Clicar o botão "Inserir" | 
 ||8 - Clicar em "Resumo" |
 |`Critério de Êxito` | Meta cadastrada e o status visualizado na aba "Resumo" |
-
-| Casos de Teste | CT-04b - Não definir meta |
-|--------------------|------------------------------------|
-|`Requisitos Associados` | RF-006 - O sistema permite a definição de meta e visualização do progresso de atingimento |
-|`Objetivo do teste` | não conseguir visualizar progresso da meta |
-|`Passos` | 
-||1 - Acessar o aplicativo móvel |
-||2 - Clicar em "Entrar" |
-||3 - Informar o Usuário e Senha |
-||4 - Clicar no botão "Entrar" |
-||5 - Clicar no botão "+" |
-||6 - não informar o valor da meta |
-||7 - Clicar o botão "Inserir" | 
-|`Critério de Êxito` | A meta não foi cadastrada |
