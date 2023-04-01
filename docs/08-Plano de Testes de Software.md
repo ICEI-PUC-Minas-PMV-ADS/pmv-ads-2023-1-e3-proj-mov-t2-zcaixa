@@ -12,7 +12,7 @@
 ||5 - Clicar em "Esqueceu sua senha?" |
 ||6 - Preencher o campo com "E-mail, usuário ou telefone" |
 ||7 - Clicar no botão "Enviar" |
-|`Critério de Êxito` | O usuário criou um login e senha e conseguiu redecuperar a senha. |
+|`Critério de Êxito` | O usuário criou um login e senha e conseguiu recuperar a senha. |
 
 | Casos de Teste | CT-01b - Acessar tela de login e cadastro de usuário 
 |--------------------|------------------------------------|
