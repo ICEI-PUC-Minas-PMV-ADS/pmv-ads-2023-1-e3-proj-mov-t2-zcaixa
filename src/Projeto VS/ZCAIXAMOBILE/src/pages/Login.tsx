@@ -1,14 +1,20 @@
-import React , {useState} from 'react'
-import {View, Text, Image, ImageBackground, TouchableOpacity, TextInput } from 'react-native';
+import React from 'react'
+import {View, Text, Image, ImageBackground, TouchableOpacity, TextInput, ScrollView } from 'react-native';
 import {styles} from './../componentes/Estilos'
+import {useNavigation} from '@react-navigation/native';
+
+
 
 const Login = () => {
+
+  const navigation = useNavigation();
 
   return (
 
     <View >
       <ImageBackground style={styles.fundo} source={require('./../../assets/fundoapp.png')} />
-      <TouchableOpacity>
+      <ScrollView>
+      <TouchableOpacity onPress={() => navigation.goBack()}>
         <Text style={styles.botaoVoltar}>←</Text>
         </TouchableOpacity>
       <View style={styles.Body}>
@@ -24,7 +30,7 @@ const Login = () => {
 
         <Text style={styles.textoLoginarea}>Senha</Text>
         <TextInput secureTextEntry={true} returnKeyType='go' autoCorrect={false} style={styles.inputLogin} />
-        <TouchableOpacity>
+        <TouchableOpacity onPress={() => navigation.navigate('recuperasenha' as never)}>
         <Text style={styles.textoRecuperaSenha}>Esqueceu sua senha?</Text>
         </TouchableOpacity>
         </View>
@@ -32,16 +38,17 @@ const Login = () => {
 
 
 
-        <TouchableOpacity style={styles.botao}>
+        <TouchableOpacity style={styles.botao} onPress={() => navigation.navigate('caixa' as never)}>
           <Text style={styles.Textobotao}>Entrar</Text>
         </TouchableOpacity>
-        <TouchableOpacity>
+        <TouchableOpacity onPress={() => navigation.navigate('cadastro' as never)}>
         <Text style={styles.TextoCadastroLogin}>Não possui uma conta? Cadastre-se</Text>
         </TouchableOpacity>
 
       </View>
+      </ScrollView>
     </View>
-
+    
   )
 
 }

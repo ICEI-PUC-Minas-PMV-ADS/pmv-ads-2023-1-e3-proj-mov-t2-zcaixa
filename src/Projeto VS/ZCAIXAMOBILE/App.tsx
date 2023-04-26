@@ -1,13 +1,16 @@
 import React, {useState} from 'react'
-import Inicio from './src/pages/Inicio';
-import Login from './src/pages/Login';
+import { NavigationContainer } from '@react-navigation/native';
+import Main from './src/navigations/main';
+
 
 const App = () => {
 
   return (
+    <NavigationContainer>
 
-    <Login />
-    
+    <Main/>
+
+    </NavigationContainer>
   )
 
 }
