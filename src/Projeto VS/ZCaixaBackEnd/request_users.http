@@ -1,0 +1,27 @@
+### USERS
+
+GET https://salty-vans-invent.loca.lt/users 
+
+### REGISTER 
+POST https://six-bobcats-greet.loca.lt/register 
+Content-Type: application/json
+
+{"username": "Teste",
+"email": "teste@hotmail.com",
+"name": "Teste",
+"lastname": "Ferreira",
+"password": "123456",
+
+}
+
+###LOGIN
+
+POST https://witty-doors-tell.loca.lt/login
+Content-Type: application/json
+
+{
+    "email": "Gabriel@hotmail.com",
+    "password": "123456"
+
+}
+
