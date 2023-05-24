@@ -1,12 +1,14 @@
 # Registro de Testes de Software
 
+Para realização dos registros de testes seguindo o plano de testes elaborado, foi executado o aplicativo através do emulador de Android tendo seus resultados registrados por gravação de vídeo.  Segue abaixo os links de acesso para visualizar o registro. 
+
 ***Caso de teste 01 - Cadastro de Usuário***
 
-Acesse o vídeo clicando no link > https://drive.google.com/drive/u/0/folders/1iVFKGq1ZLO5YDsIkKYMod8XKVXDPCwhO
+<a href='https://drive.google.com/file/d/1zrXbmeeFLKVr_Dhj9woHospzD8LAnxk-/view?usp=drive_link' target="_blank">Link do vídeo</a>
 
 ***Caso de teste 01 A - Cadastro de Usuário (validação de campos)***
 
-Acesse o vídeo clicando no link > https://drive.google.com/drive/u/0/folders/1iVFKGq1ZLO5YDsIkKYMod8XKVXDPCwhO
+<a href='https://drive.google.com/file/d/1x74AmiVjkNK6S75FQK3f-KJHq9DDLKiJ/view?usp=drive_link' target="_blank">Link do vídeo</a>
 
 ## Avaliação
 
