@@ -18,7 +18,7 @@
 |`Passos` | 
 ||1 - Acessar o aplicativo móvel |
 ||2 - Clicar em "Não possui uma conta? Cadastre-se" |
-||3 - Preencher os campos obrigatórios, campo "E-mail" com endereço de e-mail inválido, campo "Telefone" com número de telefone inválido |
+||3 - Preencher os campos obrigatórios, campo "E-mail" com endereço de e-mail inválido, campo "Telefone" com número de telefone inválido, campo "Confirme sua senha" com senha diferente |
 ||4 - Clicar em "Cadastrar" |
 |`Critério de Êxito` | Visualizar validação de dados dos campos do formulário |
 
