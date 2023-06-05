@@ -1,8 +1,14 @@
 # Registro de Testes de Software
 
-<span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>, <a href="8-Plano de Testes de Software.md"> Plano de Testes de Software</a>
+Para realização dos registros de testes seguindo o plano de testes elaborado, foi executado o aplicativo através do emulador de Android tendo seus resultados registrados por gravação de vídeo.  Segue abaixo os links de acesso para visualizar o registro. 
 
-Relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado em um plano de testes pré-definido.
+***Caso de teste 01 - Cadastro de Usuário***
+
+<a href='https://drive.google.com/file/d/1zrXbmeeFLKVr_Dhj9woHospzD8LAnxk-/view?usp=drive_link' target="_blank">Link do vídeo</a>
+
+***Caso de teste 01 A - Cadastro de Usuário (validação de campos)***
+
+<a href='https://drive.google.com/file/d/1x74AmiVjkNK6S75FQK3f-KJHq9DDLKiJ/view?usp=drive_link' target="_blank">Link do vídeo</a>
 
 ## Avaliação
 

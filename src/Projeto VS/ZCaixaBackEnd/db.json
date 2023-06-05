@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "email": "Gabriel@hotmail.com",
+      "password": "$2a$10$talSPyzgkqx.LjGibo/u9.OzUQ8hfENroSJngT7VduLW8/qMdICpS",
+      "username": "Gabriel",
+      "firstname": "Gabriel",
+      "lastname": "Ferreira",
+      "id": 1
+    },
+    {
+      "email": "pedro@hotmail.com",
+      "password": "$2a$10$/TShKna6Lrg3fFDQ1cP8HekEK/D4xF/9kiV5fYwsrzf1k.pj/PfCy",
+      "username": "Pedro",
+      "name": "Pedro",
+      "lastname": "Ferreira",
+      "id": 2
+    }
+  ]
+}

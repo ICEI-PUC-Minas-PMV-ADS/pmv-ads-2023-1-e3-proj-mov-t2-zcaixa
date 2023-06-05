@@ -1,0 +1,1 @@
+export const BASE_URL = 'http://cdsapp02.criadoresdesoftware.com.br:8081/api';
