@@ -1,27 +1,102 @@
 import API from './webapi.services';
 import {BASE_URL} from './urls'
+import axios from 'axios';
 
-export const register = async (param) => {
 
-try{
+interface RegisterParamsRegister {
+    
+    nome: string;
+    ultimoNome: string;
+    email: string;
+    username: string;
+    senha: string;
+    telefone: string;
+    dataNascimento: Date|null;
+    meta: number,
+    mesConsulta: number,
+    anoConsulta: number
+     }
+  
+  export const register = async (param: RegisterParamsRegister) => {
 
-return await API.post(`${BASE_URL}/register`, param).then(
+    const mensagemusuario = 'Usuário Já cadastrado, tente outro.';
+    
+    try{
+    const response1 = await API.get(`http://cdsapp02.criadoresdesoftware.com.br:8081/api/Usuarios/${param.username}`);
+    const user = response1.data;
+    console.log(user);
 
-  response => {
+    if(user.username == param.username){
+      
+      return mensagemusuario;
+    }
 
+    }catch{
+
+
+  try {
+    console.log('Dados enviados:', param);   
+
+    const response = await API.post(`${BASE_URL}/Usuarios`, param);
+    console.log(response.request)
     return response.data;
-
-  },
-  error => {
-    console.log(error);
-    return null;
+    
+  } catch (error) {
+    if (axios.isAxiosError(error)) {
+        const status = error.response?.status;
+        const errorMessage = error.response?.data?.error || 'Ocorreu um erro ao realizar a requisição.';
+        throw new Error(`Error ${status}: ${errorMessage}`);
+        return null;
+      } else {
+        throw new Error('Ocorreu um erro ao realizar a requisição.');
+        return null;
+      }
   }
+}};
 
-);
+interface LoginParamsLogin {
+    
+    username: string;
+    senha: string;
+    
+  }
+  
+  export const login = async (param: LoginParamsLogin) => {
 
-}catch(error){
-  console.log(error);
-  return null;
-}
+    var verificaUserSenha: (boolean) = false;
 
-}
+    
+      if (!param.username || !param.senha) {
+        
+        return null;
+      }
+  
+    try {
+
+      const response = await API.get(`http://cdsapp02.criadoresdesoftware.com.br:8081/api/Usuarios/${param.username}`);
+      const user = response.data;
+
+      if (param.senha == user.senha) {
+        // Verifica se o username ou senha são nulos
+        console.log(user)
+        return user;
+      }
+        //throw new Error('Senha incorreta'); // Ou retorne uma resposta adequada para a senha incorreta
+      
+      return null;
+      
+  
+      
+    
+  } catch (error) {
+    if (axios.isAxiosError(error)) {
+        // const status = error.response?.status;
+        // const errorMessage = error.response?.data?.error || 'Ocorreu um erro ao realizar a requisição.';
+        // throw new Error(`Error ${status}: ${errorMessage}`);
+        return null;
+      } else {
+        // throw new Error('Ocorreu um erro ao realizar a requisição.');
+        return null;
+      }
+  }
+    };

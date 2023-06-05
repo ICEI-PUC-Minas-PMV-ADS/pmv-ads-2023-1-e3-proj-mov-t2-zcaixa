@@ -4,11 +4,11 @@ import Inicio from '../pages/Inicio';
 import Login from '../pages/Login';
 import Cadastro from '../pages/Cadastro';
 import RecuperaSenha from '../pages/RecuperaSenha';
-import Caixa from '../pages/Caixa';
+
 
 const Stack = createNativeStackNavigator();
 
-const Main = () => {
+const Auth = () => {
     return (
         
         <Stack.Navigator initialRouteName="inicio">
@@ -46,4 +46,4 @@ const Main = () => {
     );
 };
 
-export default Main;
+export default Auth;

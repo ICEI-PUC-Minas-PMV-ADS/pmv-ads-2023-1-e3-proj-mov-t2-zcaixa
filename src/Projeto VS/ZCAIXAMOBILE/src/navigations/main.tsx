@@ -6,7 +6,7 @@ import MinhaConta from '../pages/MinhaConta';
 
 const Stack = createNativeStackNavigator();
 
-const Auth = () => {
+const Main = () => {
     return (
         
         <Stack.Navigator initialRouteName="caixa">
@@ -43,4 +43,4 @@ const Auth = () => {
     );
 };
 
-export default Auth;
+export default Main;
