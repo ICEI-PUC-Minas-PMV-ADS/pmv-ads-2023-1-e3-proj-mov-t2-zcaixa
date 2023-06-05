@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Documentos\pmv-ads-2023-1-e3-proj-mov-t2-zcaixa\publish</_PublishTargetUrl>
+    <History>True|2023-06-03T20:57:27.7394190Z;True|2023-06-03T17:35:52.7048978-03:00;True|2023-05-15T17:32:36.1252807-03:00;</History>
+    <LastFailureDetails />
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=sqlserver.criadoresdesoftware.com.br%3bDatabase=ZCaixa2%3bTrustServerCertificate=True%3bUser Id=ZCaixa2_Usu%3bPassword=2022#ZCaixa2#2022%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
