@@ -56,7 +56,7 @@
 ||5 - Clicar no botão " + " |
 ||6 - Clicar no botão "Categorias" |
 ||7 - Informar o título da categoria e o tipo (débito ou crédito)|
-||8 - Clicar no botão "Inserir categoria"  |
+||8 - Clicar no botão "Cadastrar"  |
 |`Critério de Êxito` | A categoria foi criada. |
 
 | Casos de Teste | CT-03 A - Criar categorias |
@@ -71,7 +71,7 @@
 ||5 - Clicar no botão " + " |
 ||6 - Clicar no botão "Categorias" |
 ||7 - não informar o título da categoria. informar somente o tipo (débito ou crédito)|
-||8 - Clicar no botão "Inserir categoria"  |
+||8 - Clicar no botão "Cadastrar"  |
 |`Critério de Êxito` | O sistema informou que não foi possível criar a categoria. |
 
 | Casos de Teste | CT-04 - Fazer lançamentos, visualizar lançamentos por mês (entradas e saída por mês) |
@@ -84,10 +84,11 @@
 ||3 - Informar o Usuário e Senha | 
 ||4 - Clicar no botão "Entrar" |
 ||5 - Clicar no botão " + " |
-||6 - Preencher os campos obrigatórios |
-||7 - Clicar no botão "Inserir" | 
-||8 - Selecionar no filtro o mês e ano desejado para filtrar |
-||9 - Clicar no botão "Ok" |
+||6 - Clicar em "Lançamentos" |
+||7 - Preencher os campos obrigatórios |
+||8 - Clicar no botão "Cadastrar" | 
+||9 - Selecionar no filtro o mês e ano desejado para filtrar os lançamentos |
+||10 - Clicar no botão "Ok" |
 |`Critério de Êxito` | Lançamentos feitos com sucesso, Filtros por período realizado. |
 
 | Casos de Teste | CT-04 A - Fazer lançamentos |
@@ -100,8 +101,9 @@
 ||3 - Informar o Usuário e Senha | 
 ||4 - Clicar no botão "Entrar" |
 ||5 - Clicar no botão " + " |
-||6 - Preencher quase todos os campos obrigatórios |
-||7 - Clicar no botão "Inserir" | 
+||6 - Clicar em "Lançamentos" |
+||7 - Preencher quase todos os campos obrigatórios |
+||8 - Clicar no botão "Cadastrar" | 
 |`Critério de Êxito` | O sistema informou que não foi possível concluir o lançamento. |
 
 
@@ -115,7 +117,8 @@
 ||3 - Informar o Usuário e Senha |
 ||4 - Clicar no botão "Entrar" |
 ||5 - Clicar no botão "+" |
+||6 - Clicar em "Meta" |
 ||6 - Informar o valor da meta |
-||7 - Clicar o botão "Inserir" | 
-||8 - Clicar em "Resumo" |
+||7 - Clicar no botão "Cadastrar" | 
+||8 - Clicar em "Resumo" para visualizar o status da meta cadastrada |
 |`Critério de Êxito` | Meta cadastrada e o status visualizado na aba "Resumo" |
