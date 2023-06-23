@@ -5,7 +5,7 @@
 
 Visão geral da interação do usuário pelas telas do sistema e protótipo interativo das telas com as funcionalidades que fazem parte do sistema (wireframes).
 
-*Mapa de Fluxo:*
+*Mapa de Fluxo e Wireframes:*
 
 ![Mapa de Fluxo](img/flowmap.png)
 
@@ -31,45 +31,4 @@ Na seção Wireframes abaixo consta as imagens da tela assim como seu navegável
 O diagrama apresenta o estudo do fluxo de interação do usuário com o sistema interativo. Isso permite que o design das interações seja bem planejado e gere impacto na qualidade no design do wireframe interativo.
 
 ![Diagrama de Fluxo](img/Diagrama_de_Fluxo.PNG)
-
-
-## Wireframes
-Protótipos usados em design de interface desenvolvidos no MarvelApp.
-
-[Link Wireframe interativo (MarvelAPP)](https://marvelapp.com/prototype/6a20jd5)
-
-**Início**
-
-![Tela de Início](img/inicio.png)
-
-**Login**
-
-![Tela de Login](img/login.png)
-
-
-**Cadastro**
-
-![Tela de cadastro](img/cadastro.png)
-
-
-**Recuperação de senha**
-
-![Tela de recuperação de senha](img/senha.png)
-
-
-**Caixa**
-
-![Tela de Caixa](img/Caixa.png)
-
-
-**Resumo**
-
-![Tela de Resumo](img/resumo.png)
-
-
-**Minha Conta**
-
-![Tela Minha Conta](img/minhaconta.png)
-
-
 
