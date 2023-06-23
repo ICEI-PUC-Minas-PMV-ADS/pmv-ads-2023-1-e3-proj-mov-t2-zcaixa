@@ -1,4 +1,4 @@
-![ZCAIXA](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t2-zcaixa/assets/59934631/a16a4629-289f-4bc6-a932-ba641f5bd125)
+![ZCAIXA](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t2-zcaixa/assets/59934631/1ad09b04-edc6-44da-89d9-e174ef2cda2f)
 
 # ZCaixa - Mobile
 `CURSO - ANALISE E DESENVOLVIMENTO DE SISTEMAS`
