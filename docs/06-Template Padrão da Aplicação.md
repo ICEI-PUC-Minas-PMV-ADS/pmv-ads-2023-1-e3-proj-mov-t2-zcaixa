@@ -4,6 +4,49 @@
 
 Layout padrão da aplicação que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
 
+## Wireframes
+Protótipos usados em design de interface desenvolvidos no MarvelApp.
+
+[Link Wireframe interativo (MarvelAPP)](https://marvelapp.com/prototype/6a20jd5)
+
+**Início**
+
+![Tela de Início](img/inicio.png)
+
+**Login**
+
+![Tela de Login](img/login.png)
+
+
+**Cadastro**
+
+![Tela de cadastro](img/cadastro.png)
+
+
+**Recuperação de senha**
+
+![Tela de recuperação de senha](img/senha.png)
+
+
+**Caixa**
+
+![Tela de Caixa](img/Caixa.png)
+
+
+**Resumo**
+
+![Tela de Resumo](img/resumo.png)
+
+
+**Minha Conta**
+
+![Tela Minha Conta](img/minhaconta.png)
+
+
+
+
+
+
 > **Links Úteis**:
 >
 > - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)
