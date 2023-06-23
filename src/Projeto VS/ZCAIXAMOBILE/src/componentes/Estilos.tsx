@@ -354,10 +354,21 @@ import { Colors } from 'react-native/Libraries/NewAppScreen';
 
           },
 
+          botaoSair2:{
+            backgroundColor:'#F95F62',
+            paddingTop: 15,
+            paddingBottom:15,
+            paddingLeft:70,
+            paddingRight: 70,
+            borderRadius: 10
+
+          },
+
           TextobotaoSair:{
             color:'#FFFFFF',
             fontSize:20,
-            fontWeight: '700'
+            fontWeight: '700',
+            textAlign: 'center'
           },
 
           TextoDeletar:{
@@ -408,8 +419,16 @@ import { Colors } from 'react-native/Libraries/NewAppScreen';
           },
 
           ReceitasDespesasTitulos:{
+            fontSize: 17,
+            fontWeight:'bold',
+            marginBottom: 10
+          },
+
+          ReceitasDespesasTitulos2:{
+
             fontSize: 15,
-            fontWeight:'bold'
+            fontWeight:'bold',
+            
           },
 
           ReceitasDespesasConteudo:{

@@ -11,7 +11,7 @@ interface RegisterParamsRegister {
     username: string;
     senha: string;
     telefone: string;
-    dataNascimento: Date|null;
+    dataNascimento: Date|string;
     meta: number,
     mesConsulta: number,
     anoConsulta: number

@@ -96,3 +96,37 @@ export const PegaCat = async (param: Categoria) => {
     }
 }
   };
+
+  interface CadMeta {
+
+    nome: string;
+    ultimoNome: string;
+    email: string;
+    username: string;
+    senha: string;
+    telefone: string;
+    dataNascimento: Date|string;
+    meta: number,
+    mesConsulta: number,
+    anoConsulta: number
+}
+
+  export const definicaoDeMeta = async (formData: CadMeta) =>{
+    try {
+      const response = await API.put(`/Usuarios/${formData.username}`, formData);
+      const filtro = response.data;
+      console.log('Dados enviados:', formData);
+      console.log(filtro);
+      return response;
+    }catch (error) {
+      if (axios.isAxiosError(error)) {
+          const status = error.response?.status;
+          const errorMessage = error.response?.data?.error || 'Ocorreu um erro ao filtrar os lançamentos.';
+          throw new Error(`Error ${status}: ${errorMessage}`);
+          
+        } else {
+          throw new Error('Ocorreu um erro ao filtrar os lancamentos');
+          
+        }
+  
+  }};  

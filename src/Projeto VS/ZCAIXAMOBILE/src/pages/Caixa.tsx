@@ -1,25 +1,31 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { View, Text, Image, ImageBackground, TouchableOpacity, KeyboardAvoidingView } from 'react-native';
 import {styles} from '../componentes/Estilos';
-import {useNavigation} from '@react-navigation/native';
-import SelectDropdown from 'react-native-select-dropdown';
-import {useUser} from '../contexts/UserContext';
 import Resumo from './Resumo';
 import MinhaConta from './MinhaConta';
 import MeuCaixa from './MeuCaixa';
 import RegistraLancamentos from './RegistraLancamentos';
 import RegistraCategorias from './RegistraCategorias';
 import RegistraMeta from './RegistraMeta';
+import Lancamento from './Lancamento'
+
+
 
 
 
 
 const Caixa = () => {
 
-  const [telaAtiva, setTelaAtiva] = useState('caixa'); // Estado para controlar a tela ativa
+ 
+
+  const [telaAtiva, setTelaAtiva] = useState('caixa'); 
 
   const handleSetTelaAtiva = (tela: string) => {
     setTelaAtiva(tela);
+  };
+
+  const ativando = () => {
+    setTelaAtiva('caixa')
   };
 
   const renderizarTela = () => {
@@ -28,18 +34,19 @@ const Caixa = () => {
     } else if (telaAtiva === 'resumo') {
       return <Resumo />;
     } else if (telaAtiva === 'registralan'){
-      return <RegistraLancamentos />;
+      return <RegistraLancamentos setTelaAtiva={handleSetTelaAtiva} />;
     }else if (telaAtiva === 'registracat'){
       return <RegistraCategorias />;
     }else if (telaAtiva === 'registrameta'){
       return <RegistraMeta />;
+    }else if (telaAtiva === 'lancamentoedit'){
+      return <Lancamento setTelaAtiva={handleSetTelaAtiva}/>;
     }
     else {
       return <MinhaConta />;
     }
   };
 
-  
 
   return (
 
@@ -47,7 +54,7 @@ const Caixa = () => {
       <View style={{justifyContent: 'flex-start'}}>
       <ImageBackground style={styles.fundo} source={require('./../../assets/fundoapp.png')} />
       <KeyboardAvoidingView contentContainerStyle={{flex:1}} behavior="position" ></KeyboardAvoidingView>
-   
+      
       {renderizarTela()}
 
       

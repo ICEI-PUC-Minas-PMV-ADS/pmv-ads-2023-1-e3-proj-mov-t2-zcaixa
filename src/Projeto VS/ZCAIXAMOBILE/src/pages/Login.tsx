@@ -1,29 +1,32 @@
-import React, {useState, useRef} from 'react'
+import React, {useState, useRef, useEffect} from 'react'
 import {View, Text, Image, ImageBackground, TouchableOpacity, TextInput, ScrollView, Alert, ActivityIndicator } from 'react-native';
 import {styles} from '../componentes/Estilos'
 import {useNavigation} from '@react-navigation/native';
 import {useUser} from '../contexts/UserContext';
 import {login} from '../services/auth.services';
+import { getLancamentosUsuario } from '../services/lancamentos.services';
 
 
 
 const Login = () => {
 
   const navigation = useNavigation();
-  const {setSigned, setName, setUsername, setMeta, setAnoConsulta, setMesConsulta} = useUser();
+  const {setSigned, setName, setUsername, setMeta, setAnoConsulta, setMesConsulta, setUltimoNome, setDataNascimento, setEmail, setTelefone, setSenha, setLancamentos, anoConsulta, mesConsulta, username} = useUser();
   const SenhaRef = useRef<TextInput>(null);
 
-  const [email, setEmail] = useState('');
+  const [usuario, setUsuario] = useState('');
   const [password, setPassword] = useState('');
   const [loading, setLoading] = useState(false);
 
   const handleLogin = () => {
 
+    
+
       var usuarioembranco:(boolean) = false;
       setLoading(true);
     login({
 
-      username: email,
+      username: usuario,
       senha: password
 
     }).then( res => {           
@@ -35,6 +38,20 @@ const Login = () => {
           setMeta(res.meta);
           setAnoConsulta(res.anoConsulta);
           setMesConsulta(res.mesConsulta);
+          setUltimoNome(res.ultimoNome);
+          setEmail(res.email);
+          setDataNascimento(res.dataNascimento);
+          setTelefone(res.telefone);
+          setSenha(res.senha);
+
+          getLancamentosUsuario(res.username, res.anoConsulta, res.mesConsulta)
+            .then((lancamentos) => {
+              setLancamentos(lancamentos);
+            })
+            .catch((error) => {
+              console.error('Erro ao obter lançamentos do usuário:', error);
+            });
+                      
 
         }else{
           setLoading(false);
@@ -70,7 +87,7 @@ const Login = () => {
         <Text style={styles.TextoSubTitulo}>Por favor, insira suas credenciais</Text>
           <View style={styles.campoLoginArea}>
         <Text style={styles.textoLoginarea}>Usuário</Text>
-        <TextInput value={email} onChangeText={(text) => setEmail(text)} returnKeyType='next' onSubmitEditing={handleEmailSubmit} style={styles.inputLogin}/>
+        <TextInput value={usuario} onChangeText={(text) => setUsuario(text)} returnKeyType='next' onSubmitEditing={handleEmailSubmit} style={styles.inputLogin}/>
 
         <Text style={styles.textoLoginarea}>Senha</Text>
         <TextInput ref={SenhaRef} secureTextEntry={true} value={password} onChangeText={(text) => setPassword(text)} onSubmitEditing={handleSenhaSubmit} returnKeyType='done' autoCorrect={false} style={styles.inputLogin} />

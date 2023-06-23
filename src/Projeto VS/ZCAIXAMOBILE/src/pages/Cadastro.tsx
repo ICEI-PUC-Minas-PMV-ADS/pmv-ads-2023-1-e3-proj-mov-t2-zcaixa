@@ -17,7 +17,7 @@ const Cadastro = () => {
   const [username, setUsername] = useState('');
   const [password, setPassword] = useState('');
   const [confirmPassword, setConfirmPassword] = useState('');
-  const [dateObject, setDateObject] = useState<Date | null>(null);
+  const [dateObject, setDateObject] = useState<Date | string>('');
   const [loading, setLoading] = useState(false);
   const confirmSenhaRef = useRef<TextInput>(null);
   const NomeRef = useRef<TextInput>(null);
@@ -35,7 +35,7 @@ const Cadastro = () => {
     const year = unmaskedText.slice(4, 8);
     const parsedDate = new Date(`${year}-${month}-${day}`);
     
-    setDateObject(isNaN(parsedDate.getTime()) ? null : parsedDate);
+    setDateObject(isNaN(parsedDate.getTime()) ? '' : parsedDate);
   }, [date]);
 
   const mensagemusuario = 'Usuário Já cadastrado, tente outro.';
@@ -90,13 +90,13 @@ const Cadastro = () => {
 
        if(res == mensagemusuario){
         Alert.alert('Usuário Já cadastrado, tente outro.')
-        setLoading(false); // Desativar o estado de carregamento
+        setLoading(false); 
         return;
        }
 
         if(res){
           
-            setLoading(false); // Desativar o estado de carregamento
+            setLoading(false); 
          
           Alert.alert('Atenção', 'Usuário cadastrado com sucesso!',
           [
@@ -107,7 +107,7 @@ const Cadastro = () => {
           ]);
 
         }else{
-          setLoading(false); // Desativar o estado de carregamento
+          setLoading(false); 
           Alert.alert('Atenção', 'Usuário não cadastrado! Tente novamente mais tarde.');
 
         }
@@ -215,12 +215,7 @@ const Cadastro = () => {
   maxLength={10}  keyboardType="decimal-pad" onSubmitEditing={handleDatNascSubmit}  placeholder="DD/MM/AAAA" style={styles.inputLogin}/>
 
 
-           {/* <Text style={styles.textoTituloInput}>Data de Nascimento *</Text>
-          <MaskInput  returnKeyType='next' value={date} keyboardType='decimal-pad'
-          onChangeText={(masked, unmasked) => { setDate(unmasked); console.log(unmasked); console.log(unmasked);}
-          } mask={[ /\d/, /\d/,'/', /\d/, /\d/,'/', /\d/, /\d/, /\d/, /\d/]}
-           placeholder={"DD/MM/AAAA"} style={styles.inputLogin} />  */}
-
+        
            <Text style={styles.textoTituloInput}>Telefone *</Text>
           <MaskInput ref={TelefoneRef} returnKeyType='next' value={phone} keyboardType='decimal-pad'
           onChangeText={(masked, unmasked) => { setPhone(unmasked); console.log(unmasked); console.log(unmasked);}

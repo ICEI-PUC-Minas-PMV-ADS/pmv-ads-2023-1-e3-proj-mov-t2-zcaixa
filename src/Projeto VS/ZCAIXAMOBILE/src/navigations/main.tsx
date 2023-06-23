@@ -19,26 +19,6 @@ const Main = () => {
             }} 
             />
 
-            <Stack.Screen 
-        name="resumo" 
-        component={Resumo} 
-        options={{
-            header:()=> null
-            }} 
-            />
-
-
-        <Stack.Screen 
-        name="minhaconta" 
-        component={MinhaConta} 
-        options={{
-            header:()=> null
-            }} 
-            />
-
-
-
-
         </Stack.Navigator>
     );
 };

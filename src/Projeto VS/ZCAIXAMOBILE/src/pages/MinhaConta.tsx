@@ -5,9 +5,20 @@ import {useUser} from '../contexts/UserContext';
 
 
 
-const Inicio = () => {
+const MeuCaixa = () => {
 
-  const {name, setSigned, username, mesConsulta, meta, anoConsulta} = useUser();
+  const { name, username, anoConsulta, mesConsulta, meta, lancamento, setLancamento, setSigned, setUsername, setLancamentos, setMeta, setAnoConsulta, setMesConsulta } = useUser();
+
+  const handleLogout = () => {
+    // Resetar todos os estados relacionados ao usuário
+    setSigned(false);
+    setUsername('');
+    setLancamentos([]);
+    setMeta(0);
+    setAnoConsulta(0);
+    setMesConsulta(0);
+    setLancamento(0);
+  };
 
   return (
     
@@ -25,7 +36,7 @@ const Inicio = () => {
                Você está logado como: {username}.
               </Text>
 
-              <Text>Meta: {meta}, anoConsulta: {anoConsulta}, MesConsulta: {mesConsulta}</Text>
+              <Text>Meta: {meta}</Text>
             </View>
 
         <Image style={styles.logomarcaMinhaConta}
@@ -34,7 +45,7 @@ const Inicio = () => {
 
         <TouchableOpacity 
         style={styles.botaoSair} 
-        onPress={ () => setSigned(false)}>
+        onPress={handleLogout}>
           <Text style={styles.TextobotaoSair}>Sair</Text>
         </TouchableOpacity>
         <TouchableOpacity>
@@ -53,4 +64,4 @@ const Inicio = () => {
 
 
 
-export default Inicio;
+export default MeuCaixa;
