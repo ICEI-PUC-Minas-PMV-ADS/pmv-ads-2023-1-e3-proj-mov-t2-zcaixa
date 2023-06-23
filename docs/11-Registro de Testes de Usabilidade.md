@@ -6,9 +6,9 @@ Conforme previsto no Plano de Testes de Usabilidade do projeto, foi obtido os se
 
 | Atividade a ser realizada | Feedback do usuário | Considerações (quais os problemas, deficiências, limitações, etc) | Sugestão de melhorias |
 |--------------------|------------------------------------|------------------------------------|------------------------------------|
-| Cadastro de usuário - Campos obrigatórios: Nome, Sobrenome, E-mail, Data de nascimento, Telefone, Senha, Confirmação da senha |  |  | | 
-| Realizar login na aplicação - Campos obrigatórios: Usuário, E-mail ou telefone e senha |  |  |  | 
-| Cadastrar categorias |  |  |  | 
+| Cadastro de usuário - Campos obrigatórios: Nome, Sobrenome, E-mail, Data de nascimento, Telefone, Senha, Confirmação da senha |  Consegui criar minha conta no app | Nenhum observado | Nenhuma sugestão | 
+| Realizar login na aplicação - Campos obrigatórios: Usuário, E-mail ou telefone e senha | Realizei o login na aplicação sem eventuais problemas | O login só é permitido pelo nome de usuário | Poderia permitir o login através do e-mail também | 
+| Cadastrar categorias | Consegui cadastrar categorias sem problema | Não foi possível excluir/editar uma categoria já existente | Permitir a exclusão/edição de categorias | 
 | Realizar um lançamento - Campos obrigatórios: Data, Valor, Categoria, Descrição |  |  |  | 
 | Excluir um lançamento |  |  |  | 
 | Editar um lançamento |  |  |  | 
