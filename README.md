@@ -22,9 +22,9 @@
 
 Link da aplicação
 
-Usuário de teste: Henrique
+Usuário de teste: nathanfrt
 
-Senha do usuário: PUC@2022
+Senha do usuário: melancia22
 
 # Documentação
 
