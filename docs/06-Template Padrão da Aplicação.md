@@ -2,10 +2,7 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>
 
-Layout padrão da aplicação que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
-
-## Wireframes
-Protótipos usados em design de interface desenvolvidos no MarvelApp.
+O Template Padráo pode ser entendido como o Layout padrão da aplicação que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia. O Template foi desenvolvido através do MarvelApp e pode ser visualizado no link e imagens abaixo:
 
 [Link Wireframe interativo (MarvelAPP)](https://marvelapp.com/prototype/6a20jd5)
 
