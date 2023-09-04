@@ -58,14 +58,15 @@ A equipe está organizada da seguinte forma:
 
 **Desenvolvedores Frontend**:
 
+- Gabriel Ferreira
 - Leandro Furtado
 - Tiago Lobo
 
 **Desenvolvedores Backend**:
 
-- Eduardo
+- Nicholas
 - Pedro Ferreira
-- 
+- Ricardo
 
 Para organização e distribuição das tarefas do projeto, a equipe está utilizando o quadro de tarefas do GitHub KANBAN unindo algumas fazes da metodologia ágil Scrum e estruturado com as seguintes listas: 
 
