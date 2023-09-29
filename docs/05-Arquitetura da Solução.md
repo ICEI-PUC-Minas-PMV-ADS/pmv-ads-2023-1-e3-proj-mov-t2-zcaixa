@@ -44,10 +44,10 @@ O editor de código foi escolhido pelo grupo pois é o mais prático e acessíve
 ## Hospedagem
 
 A hospedagem do back-end é mantida no Azure.
-
 A hospedagem do banco de dados é mantida em um servidor privado. 
-
 A aplicação ficará disponibilizada no Google Play(Android). 
+
+Para a versão web, o back-end é hospedado de forma confiável também na infraestrutura do Azure. O banco de dados, por outro lado, é mantido em um servidor privado, garantindo a segurança dos dados. A aplicação estará acessível diretamente pelo navegador, proporcionando uma experiência online fluida e intuitiva para os usuários.
 
 ## Qualidade de Software
 Sabemos que a qualidade de software é a medida em que um software atende aos requisitos do usuário e aos padrões de qualidade estabelecidos. Isso inclui a capacidade do software de funcionar corretamente, de ser fácil de usar e de ser seguro e confiável. A qualidade de software também pode ser medida pela eficiência e eficácia do software, como o seu desempenho por exemplo.
