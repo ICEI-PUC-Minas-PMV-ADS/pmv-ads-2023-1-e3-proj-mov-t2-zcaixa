@@ -1,0 +1,24 @@
+message: Please cite this software using these metadata.
+title: ZCaixa - Mobile
+authors:
+  - family-names: de Souza Ferreira
+    given-names:  Gabriel
+  - family-names: Furtado de Sousa
+    given-names: Leandro
+  - family-names: de Souza Ferreira
+    given-names: Pedro 
+  - family-names: José Teixeira da Silva Junior
+    given-names: Ricardo 
+  - family-names: Del Puppo Favilla Lobo
+    given-names: Tiago 
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Curcino de Lima
+    given-names: Mateus
+keywords:
+  - Gestão
+  - Financeiro
+  - Jovens
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t2-zcaixa
+version: 1.0.0
+date-released: 2023-06-23
